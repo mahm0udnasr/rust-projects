@@ -6,3 +6,9 @@
  rustc main.rs
   ./main
 ```
+
+- to run cargo project, use this command:
+
+```bash
+ cargo run
+```
