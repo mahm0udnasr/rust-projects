@@ -12,3 +12,9 @@
 ```bash
  cargo run
 ```
+
+- to build cargo project, use this command:
+
+```bash
+ cargo build
+```
